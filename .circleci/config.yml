@@ -15,4 +15,4 @@ jobs:
           name: "Push to DockerHub"
           command: |
             echo "$DOCKER_PASS" | docker login --username $DOCKER_USER --password-stdin && \
-            docker push mfunaki/cci-image-node
+            docker push mfunaki/cci-img-node

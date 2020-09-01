@@ -8,7 +8,7 @@ WORKDIR /node-app
 RUN npm init -y
 
 # expressインストール
-RUN npm install -g express
+RUN npm install express
 
 # テスト環境(jest, mocha, supertest)インストール
 RUN npm install jest mocha supertest

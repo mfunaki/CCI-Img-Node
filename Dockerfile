@@ -1,5 +1,5 @@
 ### 開発用コンテナの構築
-FROM node:12
+FROM node:lts
 
 # ワーキングディレクトリの設定
 WORKDIR /node-app

@@ -1,4 +1,4 @@
-[![<mfunaki>](https://circleci.com/gh/mfunaki/CCI-Img=Node.svg?style=svg)](<https://app.circleci.com/pipelines/gh/mfunaki/CCI-Img-Node>)
+[![<mfunaki>](https://circleci.com/gh/mfunaki/CCI-Img-Node.svg?style=svg)](<https://app.circleci.com/pipelines/gh/mfunaki/CCI-Img-Node>)
 
 # CircleCIを学ぼうシリーズ
 ## カスタムDockerイメージの作成

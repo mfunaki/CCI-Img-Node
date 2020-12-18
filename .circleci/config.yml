@@ -4,6 +4,9 @@ jobs:
   build:
     docker:
       - image: cibuilds/docker:latest
+        auth:
+          username: $DOCKER_USER
+          password: $DOCKER_PASS
     steps:
       - checkout
       - setup_remote_docker
